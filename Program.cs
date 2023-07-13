@@ -27,7 +27,17 @@
             {
                 Console.WriteLine(result);
             }
+            //------------task1-wordFreqCounter-------------------------
 
+            //getting the sentence
+            Console.WriteLine("Enter a sentence:");
+            string sentence = Console.ReadLine();
+
+            //counts the freq of each word
+            Dictionary<string, int> wordFreq = wordFreqCounter.CountWords(sentence);
+
+            //display the result
+            wordFreqCounter.DisplayWordFreq(wordFreq);
         }
     }
 }
