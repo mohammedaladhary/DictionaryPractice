@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\code_TRA\DictionaryPractice\bin\Debug\net6.0\DictionaryPractice.exe
+C:\Users\TRA\Desktop\code_TRA\DictionaryPractice\bin\Debug\net6.0\DictionaryPractice.deps.json
+C:\Users\TRA\Desktop\code_TRA\DictionaryPractice\bin\Debug\net6.0\DictionaryPractice.runtimeconfig.json
+C:\Users\TRA\Desktop\code_TRA\DictionaryPractice\bin\Debug\net6.0\DictionaryPractice.dll
+C:\Users\TRA\Desktop\code_TRA\DictionaryPractice\bin\Debug\net6.0\DictionaryPractice.pdb
+C:\Users\TRA\Desktop\code_TRA\DictionaryPractice\obj\Debug\net6.0\DictionaryPractice.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code_TRA\DictionaryPractice\obj\Debug\net6.0\DictionaryPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code_TRA\DictionaryPractice\obj\Debug\net6.0\DictionaryPractice.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code_TRA\DictionaryPractice\obj\Debug\net6.0\DictionaryPractice.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code_TRA\DictionaryPractice\obj\Debug\net6.0\DictionaryPractice.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code_TRA\DictionaryPractice\obj\Debug\net6.0\DictionaryPractice.dll
+C:\Users\TRA\Desktop\code_TRA\DictionaryPractice\obj\Debug\net6.0\refint\DictionaryPractice.dll
+C:\Users\TRA\Desktop\code_TRA\DictionaryPractice\obj\Debug\net6.0\DictionaryPractice.pdb
+C:\Users\TRA\Desktop\code_TRA\DictionaryPractice\obj\Debug\net6.0\DictionaryPractice.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code_TRA\DictionaryPractice\obj\Debug\net6.0\ref\DictionaryPractice.dll
