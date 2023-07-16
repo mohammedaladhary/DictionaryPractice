@@ -29,5 +29,14 @@ namespace DictionaryPractice
             }
             return null;
         }
+        public string search (string name) 
+        {
+            string? phoneNumber = null;
+            if (contactInfo.TryGetValue(name,out phoneNumber))
+            {
+                return phoneNumber;
+            }
+            return null;
+        }
     }
 }
