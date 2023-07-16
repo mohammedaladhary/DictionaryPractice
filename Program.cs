@@ -42,8 +42,8 @@
             
             //-----------task3-contact phone number---------------------
             Contacts contacts = new Contacts();
-            contacts.Add("Ahmed", "234212");
-            contacts.Add("Said", "341223");
+            
+            //contacts.Add(new Contacts("Said", "341223"));
 
             contacts.search("Ahmed");
             contacts.Remove("Bob");
